@@ -1,0 +1,11 @@
+:root {
+  font-family: Inter, system-ui, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #ffffff;
+  background: #101820;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+html, body, #root { margin: 0; min-height: 100%; }
+body { min-width: 320px; }
